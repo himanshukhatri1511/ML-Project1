@@ -1,0 +1,26 @@
+Column Name,Definition
+trip_ID,unique identifier for each tourist
+visitor_nation,country of origin of the visitor
+age_bracket,age group of the tourist
+travelling_with,the relation of people a tourist travel with
+female_count,Total number of females
+male_count,Total number of males
+key_activity,The main activity or experience the visitor intends to engage in while in Mexico
+trip_purpose,The purpose of visiting Mexico
+first_time_visitor,Whether this is the visitor's first trip to Mexico
+mainland_nights,Number of nights spent on the Mexican mainland
+island_nights,Number of nights spent on islands off the Mexican coast
+tour_arrangement,The arrangment of visiting Mexico
+transport_package_international,If the tour package include international transportation service
+source_of_info,How the visitor learned about the trip or destination
+package_accomodation,If the tour package include accommodation service
+food_package,If the tour package include food service
+transport_package_mx,If the tour package include transport service within Mexico 
+sightseeing_package,If the tour package include sightseeing service
+guided_tour_package,If the tour package include tour guide
+insurance_package,if the tour package include insurance service
+days_before_booked,Number of days before the trip was booked
+weather_at_arrival,The weather condition at the time of arrival
+tour_length,The length of the tour
+special_requirements,If a tourist had any special requirements
+category,The range of expenditures a tourist spends in Mexico: 0-High; 1-Medium; 2-Low
